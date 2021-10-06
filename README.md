@@ -10,8 +10,8 @@
 <div align="center" style="display: inline">
    <a href="https://github.com/AecioJose">
    <div style="display: inline_block">
-      
-     
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AecioJose&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=ebf28c&icon_color=5aa2c9"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AecioJose&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=ebf28c&icon_color=5aa2c9"/>
    </div>
 </div>
  
@@ -34,9 +34,9 @@
   <a href = "mailto:ajaeciojose12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+ -->
  
   ![Snake animation](https://github.com/AecioJose/AecioJose/blob/output/github-contribution-grid-snake.svg)
-   -->
+  
 	api/top-langs?username=anuraghazra
 </div>
