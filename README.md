@@ -38,5 +38,4 @@
  
   ![Snake animation](https://github.com/AecioJose/AecioJose/blob/output/github-contribution-grid-snake.svg)
   
-	api/top-langs?username=anuraghazra
 </div>
