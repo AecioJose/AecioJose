@@ -18,6 +18,8 @@
   
  <!--Imagem de linguagens-->
 <div style="display: inline_block"><br>
+  <img align="center" alt="AJ-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg">
+  <img align="center" alt="AJ-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">
   <img align="center" alt="AJ-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="AJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
