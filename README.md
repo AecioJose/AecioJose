@@ -1,10 +1,28 @@
 ## Hi! I'm **Aécio** 👋
+<br>
+🇺🇸
+<br>
+Hello, I'm Aécio, I'm 18 years old, and I currently live in Brazil. I have a strong passion for technology, especially when it involves hardware.
 
+- Currently, I'm enrolled in **MITx 6.00.2x** and I'm learning a lot about computer science 👨‍💻.
+- I'm wrapping up high school 🙌 and dedicating myself extensively to my studies to achieve my dream of attending an incredible foreign university 👨‍🎓.
+- In addition to technology, I enjoy playing keyboard 🎹, guitar 🎸, and doing CrossFit 🏋🏽.
 
- Hello guys, I am **Aécio**, I’m **student** and **I live in BRAZIL**, I’m currently **learning PYTHON and Front-end languages** and <br>
- I’m looking to collaborate on **PYTHON Projects**
-- 📫 **How to reach me: on my instagram**
-- 😄 **Pronouns: he/him**
+This GitHub repository serves as a space where I share projects, learning experiences, and accomplishments throughout my journey. Please feel free to explore and follow my progress! 🚀🔧👾
+
+##
+
+🇧🇷
+<br>
+Olá, sou Aécio, tenho 18 anos e atualmente moro no Brasil, **GOSTO** **MUITO** de tecnologias no geral, principalmente que tenham **hardware** no meio.
+- Atualmente, estou cursando o **MITx 6.00.2x**, e aprendendo muita coisa de ciencia da computação 👨‍💻.
+- Terminando ensino médio🙌 e me dedicando muito aos estudos para conquistar meu sonho de ingressar em uma incrivel universidade no exterior 👨‍🎓.
+- Além de tecnologias gosto de tocar teclado🎹, violão🎸 e praticar Cross Fit 🏋🏽.
+
+Este repositório no GitHub é um espaço onde compartilho projetos, aprendizados e conquistas ao longo da minha jornada.
+Fique à vontade para explorar e acompanhar meu progresso! 🚀🔧👾
+
+<br><br><br>
 
 <!--github stats-->
 <div align="center" style="display: inline">
@@ -45,5 +63,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
 </picture>
   
-  
 </div>
+<br><br><br><br>
+Seja bem-vindo(a)! 😄ㅤ|ㅤWelcome! 😄
