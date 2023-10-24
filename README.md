@@ -2,8 +2,8 @@
 <br>
 🇺🇸
 <br>
-Hello, I'm Aécio, I'm 18 years old, and I currently live in Brazil. I **REALLY** **LIKE** technologys in general, especially when it involves hardware.
 
+Hello, I'm Aécio, I'm 18 years old, and I currently live in Brazil. I **REALLY** **LIKE** technologies in general, especially when they involve hardware.
 - Currently, I'm enrolled in **MITx 6.00.2x** and I'm learning a lot about computer science 👨‍💻.
 - I'm wrapping up high school 🙌 and dedicating myself extensively to my studies to achieve my dream of attending an incredible foreign university 👨‍🎓.
 - In addition to technology, I enjoy playing keyboard 🎹, guitar 🎸, and doing CrossFit 🏋🏽.
