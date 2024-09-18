@@ -1,28 +1,17 @@
 ## Hi! I'm **Aécio** 👋 son of a living god ❤️‍🔥
 <br>
-🇺🇸
-<br>
 
-Hello, I'm Aécio, I'm 18 years old, and I currently live in Brazil. I **REALLY** **LIKE** technologies in general, especially when they involve hardware.
+Hello, I'm Aécio, I'm 19 years old, and I currently live in Brazil. I **REALLY** **LIKE** technologies in general, especially when they involve hardware.
 
-- I'm wrapping up high school 🙌 and dedicating myself extensively to my studies to achieve my dream of attending an incredible foreign university 👨‍🎓.
-- In addition to technology, I enjoy playing keyboard 🎹, guitar 🎸, and doing CrossFit 🏋🏽.
+- Studying for an Associate Degree in systems analysis and development
+- IoT Projects: Design and Implementation
+- Audio/Visual: Live Stream, Sound Operation, Lighting & Projection Systems
+- In addition to technology, I enjoy playing Acoustic Guitar 🎸 and Run 🏃🏻‍♂️.
 
 This GitHub repository serves as a space where I share projects, learning experiences, and accomplishments throughout my journey. Please feel free to explore and follow my progress! 🚀🔧👾
 
 ##
-
-🇧🇷
 <br>
-Olá, sou Aécio, tenho 18 anos e atualmente moro no Brasil, **GOSTO** **MUITO** de tecnologias no geral, principalmente que tenham **hardware** no meio.
-
-- Terminando ensino médio🙌 e me dedicando muito aos estudos para conquistar meu sonho de ingressar em uma incrivel universidade no exterior 👨‍🎓.
-- Além de tecnologias gosto de tocar teclado🎹, violão🎸 e praticar Cross Fit 🏋🏽.
-
-Este repositório no GitHub é um espaço onde compartilho projetos, aprendizados e conquistas ao longo da minha jornada.
-Fique à vontade para explorar e acompanhar meu progresso! 🚀🔧👾
-
-<br><br><br>
 
 <!--github stats-->
 <div align="center" style="display: inline">
@@ -50,11 +39,11 @@ Fique à vontade para explorar e acompanhar meu progresso! 🚀🔧👾
   
 <!--Redes Sociais-->
 <div>
-  <a href="https://instagram.com/aj_aecio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ajaeciojose12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!--
   <a href="https://www.linkedin.com/in/AecioJose" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- -->
+  <a href="https://instagram.com/aj_aecio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ajaeciojosemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+ 
 
 
  <picture>
@@ -65,4 +54,4 @@ Fique à vontade para explorar e acompanhar meu progresso! 🚀🔧👾
   
 </div>
 <br><br><br><br>
-Seja bem-vindo(a)! 😄ㅤ|ㅤWelcome! 😄
+ㅤWelcome! 😄 <!-- <a href="https://xxx/aj_aecio" >My website</a> --> <!--Link para portfolio-->
